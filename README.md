@@ -16,6 +16,7 @@ git checkout -b release/1.0.0
 git push origin release/1.0.0
 
 git add images/gambar.jpg
-git commit -m "Menambahkan gambar ke repositori"
+git commit -m "![workflow github annisa 1](https://github.com/user-attachments/assets/82b46efb-092b-491c-aa6f-e614b0c1ba33)
+"
 git push origin main
 
